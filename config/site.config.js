@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "ONE-MAX",
+  title: "CM's Share Resource",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/Share',
@@ -51,6 +51,10 @@ module.exports = {
     {
       name: 'GitHub',
       link: 'https://github.com/corkine',
+    },
+    {
+      name: 'Home',
+      link: 'https://mazhangjing.com'
     }
   ],
 
